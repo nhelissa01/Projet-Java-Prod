@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+}
+nav{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#tete{
+    width: 100%;
+    height: auto;
+    margin-top: 22vh;
+     background-image: url(..//imge/patchwork.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width:100%;
+    margin: 0;
+    padding: 0;
+}  
+
+    fieldset{
+        margin-top: 12vh;
+        width: 75%;
+        height:max-content;
+      
+    }
+ .tableau {
+        margin-left: 220px;
+ } 
+
+ table{
+     width: 100%;
+     height: auto;
+ }
+ tr{
+     height: 7vh;
+ }
+
+ button{
+      
+        display: flex;
+        background-color: #8c8f99;
+        padding: 1.1% 0.5%;
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+        border-radius: 9px;
+        margin-left: 80%;
+        margin-top: 15vh;
+        text-decoration: none;
+        list-style-type: none;
+    }
+
+    button a{
+        text-decoration: none;
+        color: white;
+    }
+
+    button:hover{
+        background-color: #a33722; 
+    }

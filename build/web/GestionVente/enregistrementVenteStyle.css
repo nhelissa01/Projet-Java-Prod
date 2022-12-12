@@ -1,0 +1,125 @@
+
+nav{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#tete{
+    width: 100%;
+    height: 100vh;
+}
+
+#contenue{
+     width:100%;
+    margin: 0;
+    padding: 0;
+    height:110vh;
+    background-color: #62715f;
+}
+
+    .texte  {
+
+        margin-top: 300px;
+    }
+
+    /* Formulaire */
+    
+    
+    
+    #principal{
+        width: 730px;
+        height: 52vh;
+  
+    }
+    
+    .formu{
+        height: 70vh;
+        /*margin-top: 60vh;*/
+    }
+    fieldset{
+        margin-top: 45vh;
+        margin-left: 240px;
+        height: 70vh;
+    }
+    
+    input{
+        padding: 1% 8%;
+        margin-top: 2vh;
+        margin-left: 150px;
+        border: 1px solid black;
+        border-radius: 5px;
+    } 
+    input:hover{
+        background-color: #313339;
+        outline-color: #1a7297;
+    }
+    
+    .case1{
+        margin-left: 213px;
+    }
+    .case2{
+        margin-left: 90px;
+        
+    }
+    .case3{
+        margin-left: 170px;
+    }
+    .case5{
+        padding: 1% 9.6%;
+
+    }
+    select{
+        padding: 1% 12.5%;
+        margin-top: 2vh;
+        margin-left: 110px;
+        border: 1px solid black;
+        border-radius: 5px;
+    } 
+    select:hover{
+        background-color: #313339;
+        outline-color: #1a7297;
+    }
+
+     label{ 
+         margin: 30px;
+       margin-left: 60px;
+	font-size: 14px; 
+	font-weight: bold; 
+	 color: black;
+     
+ } 
+   
+
+button{
+    margin: 65px;
+	margin-top: 8vh;
+    width: 15%;
+    background-color: #8c8f99;
+    padding: 1.1% 1.5%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+   
+	border-radius: 9px;
+    margin-left: 300px
+}
+button:hover{
+    background-color: #a33722;
+}
+
+#Message{
+      padding-top:7px;
+     font-weight: bold;
+        position: absolute;
+        color: black;
+        width: 15%;
+        height: 5vh;
+        margin-left: 1040px;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 55vh;
+}

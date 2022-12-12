@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+}
+
+#image{
+background-image: url(../imge/produit.jpg);
+background-size: cover; 
+background-repeat: no-repeat;
+width:100%;
+margin: 0;
+padding: 0;
+height:100vh;
+} 
+
+.texte  {
+    margin-left: -47%;
+    padding: 3.5% 45.5% 32.5% 55.5%;
+    font-size: 2.5rem;
+    color: #AB0000;;
+}
+
+.welcome{
+    margin-top: -70vh;
+    border: 1px solid transparent;
+}
+
+
+#contenue {
+    padding: 7.5% 0;
+	display: inline-block;
+	width: 100%;
+    background-color: rgb(246, 246, 246);
+    margin-top: -69vh;
+}
+
+#contenue *{
+    margin-left: 5%;
+}
+
+.gauche{
+    width: 40%;
+    height: auto;
+    float: left;
+}
+
+.droite{
+    width: 40%;
+    height: auto;
+    float: left;
+    padding-right: 5%;
+}
+
+.foto{
+    width: 95%;
+    height: 50vh;
+}
+

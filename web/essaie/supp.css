@@ -1,0 +1,109 @@
+
+.rech{
+    margin: 10px;
+    width: 30%;
+    height: 20vh;
+    /*background-color: red;*/
+    margin-top: 15vh;
+}
+
+.recher_label{
+    width: 50%;
+    height: 4vh;
+    /*margin: 30px;*/
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 14px; 
+    font-weight: bold; 
+    color: black;
+}
+
+.recher_input{
+    width: 50%;
+    height: 5vh;
+    margin-left: 30px;
+    margin-top: 2vh;
+}
+
+#recher_button{
+    position: absolute;
+        background-color: #8c8f99;
+        width: 10%;
+         height:5vh;
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+        border-radius: 9px;
+        text-decoration: none;
+        list-style-type: none;
+        margin-left: -125px;
+        margin-top: 80px;
+}
+
+nav{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#tete{
+    width: 100%;
+    height: 100vh;
+}
+
+#corp{
+    background-color: #62715f; 
+    /*background-image: url(./imge/patchwork.jpg);*/
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    height:110vh;
+    }  
+
+    fieldset{
+        width: 75%
+    }
+ .tableau {
+        margin-top: -575px; 
+        margin-left: 220px;
+ } 
+
+ table{
+     width: 100%;
+     height: 60vh;
+ }
+ 
+ .formu{
+     background-color: yellow;
+     width: 100%;
+     height: 30vh;
+ }
+
+/* button{
+      
+        display: flex;
+        background-color: #8c8f99;
+        padding: 1.1% 0.5%;
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+        border-radius: 9px;
+        margin-left: 80%;
+        margin-top: 1vh;
+        text-decoration: none;
+        list-style-type: none;
+    }
+
+    button a{
+        text-decoration: none;
+        color: white;
+    }
+
+    button:hover{
+        background-color: #a33722; 
+    }  */
