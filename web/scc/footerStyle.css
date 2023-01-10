@@ -1,0 +1,40 @@
+#footer{
+    width: 100%;
+    height: 30vh;
+    margin-top: 15.2vh;
+    background-color: #8c8f99;
+    font-size: 12px;
+    justify-content: center;
+    text-align:center ;
+    /* position: absolute; */
+}
+
+
+#footer *{
+    margin-top: 4vh;
+    color: black;
+    
+}
+
+.nom{
+padding-top: 6vh;
+}
+
+.menu2{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 500px;
+    margin-left: 30%;
+    
+}
+
+.menu2 li a{
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.pied{
+     color: #fff;
+}

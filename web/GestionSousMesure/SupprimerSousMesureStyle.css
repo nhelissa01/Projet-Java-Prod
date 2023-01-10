@@ -1,0 +1,145 @@
+
+nav{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#tete{
+    width: 100%;
+    height: 100vh;
+}
+
+#image{
+    background-image: url(..//imge/patchwork.jpg);
+    /*background-image: url(../imge/produit.jpg);*/
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    height:115vh;
+    } 
+
+    .texte  {
+
+        margin-top: 300px;
+    }
+
+    /* Formulaire */
+    
+    #contenue{
+    width: 100%;
+        height:auto;
+    background-color: #62715f;
+}
+    
+    #principal{
+        width: 730px;
+        height: 52vh;
+  
+    }
+    
+    form{
+        height: 90vh;
+    }
+    .formu{
+        height: 70vh;
+        /*margin-top: 60vh;*/
+    }
+    fieldset{
+        position: absolute;
+        margin-top: -130vh;
+        margin-left: 450px;
+        height: 70vh;
+    }
+    
+    input{
+        padding: 1% 8%;
+        margin-top: 2vh;
+        margin-left: 150px;
+        border: 1px solid black;
+        border-radius: 5px;
+    } 
+    input:hover{
+        background-color: #313339;
+        outline-color: #1a7297;
+    }
+    
+    .case1{
+        margin-left: 235px;
+    }
+    
+    .case2{
+        margin-left: 183px;
+    }
+    
+    .case3{
+        margin-left: 120px;
+    }
+    
+     label{ 
+         margin: 30px;
+       margin-left: 60px;
+	font-size: 14px; 
+	font-weight: bold; 
+	 color: black;
+     
+ } 
+   
+
+button{
+    margin: 65px;
+    margin-top: 8vh;
+    width: 15%;
+    background-color: #8c8f99;
+    padding: 1.1% 1.5%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+   
+	border-radius: 9px;
+    margin-left: 140px
+}
+button:hover{
+    background-color: #a33722;
+}
+
+.rech{
+    position: absolute;
+    margin-top: 40vh;
+    margin-left: 100px;
+    background-color: red;
+   width: 20%;
+   height: 20vh;
+}
+.rech .recher_label{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.rech .recher_input{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.rech .recher_button{
+        display: flex;
+        position: absolute;
+        background-color: #8c8f99;
+        padding: 1.1% 10.5%;
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+        border-radius: 9px;
+        text-decoration: none;
+        list-style-type: none;
+        margin-left: 5px;
+        margin-top: 100px;
+       
+}
+
+
