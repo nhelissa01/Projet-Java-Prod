@@ -16,18 +16,18 @@ alimentaires.
 de produits
 3. Gestion de ventes
 
-###Interface de gestion de produit
+### Interface de gestion de produit
 <p align='center'>
 <img height="500" width="600" center src="https://github.com/nhelissa01/Projet-Java-Prod/blob/main/views/2023-01-10%20(2).png"/>
 </p>
 
-###Interface de gestion de sousmesures
+### Interface de gestion de sousmesures
 de produits
 <p align='center'>
 <img height="500" width="600" center src="https://github.com/nhelissa01/Projet-Java-Prod/blob/main/views/2023-01-10%20(3).png"/>
 </p>
 
-###Interface de gestion de ventes
+### Interface de gestion de ventes
 <p align='center'>
 <img height="500" width="600" center src="https://github.com/nhelissa01/Projet-Java-Prod/blob/main/views/2023-01-10%20(5).png"/>
 </p>
